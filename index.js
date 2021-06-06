@@ -17,7 +17,7 @@ bot.on("ready", () =>{
     //wechselnder status
 
     let statuse = [
-    "Hi!",
+    "/help coding by ezz coding!",
     `auf ${bot.guilds.cache.size} Servern`,
     `mit ${bot.users.cache.size} Usern`
     ]
